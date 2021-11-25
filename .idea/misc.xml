@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable-anydpi/user_icon.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable-mdpi/ic_error.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/background_add_button.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/background_indicator.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/button_background.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/card_background.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/edit_text_background.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.2713541666666667" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/font/poppins.xml" value="0.28541666666666665" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout-v23/fragment_login.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/activity_main.xml" value="0.1140625" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/fragment_create_note.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/fragment_home.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/fragment_login.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/fragment_register.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/item_container_note.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/layout_dialog_add_url.xml" value="0.2552083333333333" />
+        <entry key="..\:/NoteAppKtorServer/app/src/main/res/layout/layout_persistent_bottom_sheet.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
