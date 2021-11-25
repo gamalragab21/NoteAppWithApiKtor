@@ -119,7 +119,7 @@
             android:layout_marginEnd="@dimen/_12sdp"
             android:fontFamily="@font/poppins_bold"
             android:includeFontPadding="false"
-            android:text="Note Have Notes"
+            android:text="Not Have Notes"
             android:textColor="@color/colorWhite"
             android:textSize="@dimen/_20ssp"
             app:layout_constraintTop_toTopOf="parent" />

@@ -10,7 +10,7 @@ object Constants {
     const val TAG = "GAMALRAGAB"
     const val REQUEST_CODE_READ_EXTERNAL_STORAGE_PERMISSIONS=123
     const val USERS_INFO_FILE: String = "USER_INFO"
-    const val BASE_URL = "http://d44a-197-38-125-238.ngrok.io/v1/"
+    const val BASE_URL = "http://45da-197-38-125-238.ngrok.io/v1/"
     val USER_TOKEN = stringPreferencesKey("USER_TOKEN")
     val USER_EMAIL = stringPreferencesKey("USER_EMAIL")
     val USER_PASSWORD = stringPreferencesKey("USER_PASSWORD")

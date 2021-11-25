@@ -160,7 +160,7 @@ class HomeFragment : Fragment(), EasyPermissions.PermissionCallbacks {
                         subTitle = "",
                         title = "",
                         webLink = url, color = "#FDBE3B",
-                        note = "", dataTime = "", id = -1, imagePath = null, userId = -1
+                        note = "", dataTime = "", id = null, imagePath = null, userId = -1
                     )
                     val action = HomeFragmentDirections.actionHomeFragmentToCreateNoteFragment(note)
                     findNavController().navigate(action)
@@ -209,14 +209,14 @@ class HomeFragment : Fragment(), EasyPermissions.PermissionCallbacks {
                     //  createNoteViewModel.setCurImageUri( Resource.Success(imageUri))
                     //   createNoteViewModel.setCurImageUri(imageUri)
                     val note = Note(
-                        -1,
+                       null,
                         "",
                         "", "",
                         imageUri.toString(),
                         "",
                         color = "#FDBE3B",
                         null,
-                        -1
+                        userId=-1
                     )
 
 

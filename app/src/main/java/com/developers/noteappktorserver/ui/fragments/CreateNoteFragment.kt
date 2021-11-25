@@ -87,8 +87,11 @@ class CreateNoteFragment : Fragment(), EasyPermissions.PermissionCallbacks {
         super.onViewCreated(view, savedInstanceState)
 
         args.note?.let { noteUpdate ->
-            isUpdate = true
-            idOfNoteUpdated = noteUpdate.id
+            noteUpdate.id?.let {
+                isUpdate = true
+                idOfNoteUpdated = noteUpdate.id
+            }
+
 
 
             binding.inputTitle.setText(noteUpdate.title)
