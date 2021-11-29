@@ -1,6 +1,6 @@
 # NoteAppWithApiKtor
 
-Note App used to save your notes as text , images and urls by beautifil desgin by using ktor framework backend by server ngrok 
+Note App used to save your notes as text, images, and URLs by beautiful design by using ktor framework backend by server ngrok 
 
  # Screenshots
 
